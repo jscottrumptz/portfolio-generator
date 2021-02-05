@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "A program that creates an HTML portfolio page from command line input",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jscottrumptz/portfolio-generator.git"
+  },
+  "author": "J Scott Rumptz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jscottrumptz/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/jscottrumptz/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
