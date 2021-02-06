@@ -60,10 +60,6 @@ module.exports = templateData => {
     // based on property key names and dump the rest in header
     const { projects, about, ...header } = templateData;
 
-    console.log(projects);
-    console.log(about);
-    console.log(header);
-
     return `
     <!DOCTYPE html>
     <html lang="en">
